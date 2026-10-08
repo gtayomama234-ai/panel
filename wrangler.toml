@@ -1,0 +1,7 @@
+name = "netra-panel"
+main = "worker.js"
+compatibility_date = "2026-10-08"
+
+[[kv_namespaces]]
+binding = "kv"
+id = "YOUR_KV_NAMESPACE_ID"
